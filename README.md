@@ -1,4 +1,4 @@
-schiffer-ipsum
-==============
+lorum-schiffsum
+===============
 
-Funky dope technobabble
+Lorum ipsum generator
