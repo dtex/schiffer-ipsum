@@ -3,7 +3,12 @@ schiffer-ipsum
 
 Lorum ipsum generator. Pass in a Medium.com author name and a callback and get an array of 5 paragraphs of varying length assembled from random sentences by that author.
 
-###Sample usage:###
+###Installation###
+````
+npm install schiffer-ipsum
+````
+
+###Sample usage###
 ````
 var http = require("http")
   , schiffer = require("schiffer-ipsum")
