@@ -4,7 +4,7 @@
   "description": "Funky dope technobabble",
   "main": "app.js",
   "dependencies": {
-    "request": "~2.34.0",
+    "request": "~2.88.2",
     "libxmljs": "~0.9.0",
     "jsdom": "~0.10.5"
   },
